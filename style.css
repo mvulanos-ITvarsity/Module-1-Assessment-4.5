@@ -1,0 +1,23 @@
+th{
+    color:blue;
+}
+td{
+    color:brown;
+}
+th{
+    fond-weight: 800;
+}
+td{
+    font-weight:600;
+}
+table{
+    font-family: Helvetica, sans-serif
+    border-collapse: collapse;
+}
+ul {
+    list-style-type: circle;
+}
+
+ol{
+    list-style-type: upper-roman;
+}    
